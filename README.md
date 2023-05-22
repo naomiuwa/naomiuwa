@@ -3,8 +3,6 @@
 - 🎓 School of Code graduate 
 - 🧠 Learning to code each day by building problem solving apps 
 - 👩🏾‍💻 Pursing an exciting and rewarding career in tech
-- 📧 You can contact me on naomi.uwamungu@gmail.com 
-- 👇🏾 Feel free to explore my SoC hackathons 
 
 ### Connect with me:
 ![twitter icon](https://twitter.com/naomiudev)
