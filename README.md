@@ -6,5 +6,3 @@
 - 👇🏾 Feel free to explore my work below 
 
 ### Connect with me: 
-
-<a href="https://twitter.com/naomiudev" rel="twitter" height="30" width="40">![https://github.com/naomiuwa/naomiuwa/assets/124946545/a257f766-2735-45df-9322-e0cdd0a7a524](https://github.com/naomiuwa/naomiuwa/assets/124946545/a257f766-2735-45df-9322-e0cdd0a7a524)</a>
