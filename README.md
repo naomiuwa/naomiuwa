@@ -4,5 +4,3 @@
 - 🧠 Learning to code each day by building problem solving apps 
 - 👩🏾‍💻 Pursing an exciting and rewarding career in tech
 - 👇🏾 Feel free to explore my work below 
-
-### Connect with me: 
