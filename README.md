@@ -2,7 +2,7 @@
 
 ## A newly trained software developer
 
-I’m an ex-recruiter who loves to learn and continuosuly evolve. That’s why I have decided to join the world of tech because it’s always changing and there’s always something new to sink your teeth into.  
+I’m an ex-recruiter who loves to learn and continuously evolve. That’s why I have decided to join the world of tech because it’s always changing and there’s always something new to sink your teeth into.  
 
 - 🌎 Based in Birmingham 
 - 🎓 School of Code graduate 
