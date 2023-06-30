@@ -1,5 +1,15 @@
-## Hi there 👋 I'm Naomi, a newly trained software developer based in Birmingham, UK 
+# Hello 👋 I'm Naomi!
 
-- 🎓 School of Code bootcamper 
-- 🧠 Learning to code each day by building problem solving apps 
-- 👩🏾‍💻 Pursing an exciting and rewarding career in tech
+## A newly trained software developer
+
+I’m an ex-recruiter who loves to learn and continuosuly evolve. That’s why I have decided to join the world of tech because it’s always changing and there’s always something new to sink your teeth into.  
+
+- 🌎 Based in Birmingham 
+- 🎓 School of Code graduate 
+- 🧠 Learning to code each day by tackling Codewars & building problem solving apps 
+
+### Skills 
+
+
+### Socials 
+
