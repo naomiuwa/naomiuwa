@@ -6,8 +6,6 @@ I’m an ex-recruiter who loves to learn and continuously evolve. That’s why I
 
 - 🌎 Based in Birmingham 
 - 🎓 School of Code graduate 
-- 🧠 Learning to code each day by tackling Codewars & building problem solving apps 
+- 🧠 Learning to code each day by tackling Codewars & building problem solving apps
+- 👇🏾 Explore my recent SoC team projects below
 
-### Socials 
-[<img src="images/linkedin_logo.jpg">](https://www.linkedin.com/in/naomi-uwamungu-291333168/)
-[<img src="img/linkedin logo.png">](https://twitter.com/naomiudev)
