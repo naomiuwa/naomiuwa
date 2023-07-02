@@ -9,7 +9,7 @@ I’m an ex-recruiter who loves to learn and continuously evolve. That’s why I
 - 🧠 Learning to code each day by tackling Codewars & building problem solving apps 
 
 ### Skills 
-
+[<img src="../Documents/javascript-logo.svg">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Socials 
 
