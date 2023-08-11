@@ -2,7 +2,7 @@
 
 ## A newly trained software developer
 
-I’m an ex-recruiter who loves to learn and continuously evolve. That’s why I have decided to join the world of tech because it’s always changing and there’s always something new to sink your teeth into.  
+I'm an ex-recruiter with exceptional organisational skills, a keen ability to empathise and connect with individuals, and a passion to embrace new learning opportunities!  
 
 - 🌎 Based in the Midlands 
 - 🎓 School of Code graduate 
